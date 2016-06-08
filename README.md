@@ -10,3 +10,7 @@ Use Terminal to automatic create a Xcode project
 ### how to create your own Template
 1. Modify the Demo project directly
 2. create your own Template, and copy the creator.sh to your path and modify it according to the configuration
+
+
+###Issue 
+1. if the project name contain `Test` or `Demo` will report issue 
