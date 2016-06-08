@@ -1,10 +1,11 @@
 # XcodeCreater
-Use Terminal to auto create a Xcode project
+Use Terminal to automatic create a Xcode project
 
 ###how to use it 
 1. Clone the project 
 2. Open Terminal "cd <the path you want to >" `sh <path to the project>/Demo/creator.sh`
-3. Done
+3. Input the new project name 
+4. Automaticly open the project with an empty Podfile 
 
 ### how to create your own Template
 1. Modify the Demo project directly
